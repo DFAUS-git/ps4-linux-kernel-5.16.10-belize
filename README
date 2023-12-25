@@ -1,0 +1,23 @@
+-Ps4 Patches deducted from Codedwrench 5.15.15 Ps4 linux kernel source and applied to 5.16.10
+-Various ps4 patches was edited for the updated kernel (e.g. "drivers/gpu/drm/amd/amdkfd/kfd_device.c")
+-For Belize Southbridges Only
+
+
+Linux kernel
+============
+
+There are several guides for kernel developers and users. These guides can
+be rendered in a number of formats, like HTML and PDF. Please read
+Documentation/admin-guide/README.rst first.
+
+In order to build the documentation, use ``make htmldocs`` or
+``make pdfdocs``.  The formatted documentation can also be read online at:
+
+    https://www.kernel.org/doc/html/latest/
+
+There are various text files in the Documentation/ subdirectory,
+several of them using the Restructured Text markup notation.
+
+Please read the Documentation/process/changes.rst file, as it contains the
+requirements for building and running the kernel, and information about
+the problems which may result by upgrading your kernel.
