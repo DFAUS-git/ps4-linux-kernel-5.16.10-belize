@@ -1,5 +1,5 @@
--Playstation 4 linux Patches taken from Codedwrench 5.15.15 Playstation 4 linux kernel source and applied to 5.16.10
--Various ps4 patches was edited for the updated kernel (e.g. "drivers/gpu/drm/amd/amdkfd/kfd_device.c")
+-Playstation 4 linux Patches taken from Codedwrench 5.15.15 Ps4 linux kernel source and applied to 5.16.10
+-Various ps4 patches was edited for the updated kernel (e.g. "drivers/gpu/drm/amd/amdkfd/kfd_device.c") some "may" require further editing
 -Commits will be pushed if changes and fixes are applied
 -For Belize Southbridges Only
 
